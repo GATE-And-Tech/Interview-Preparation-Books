@@ -8,7 +8,9 @@ This repository contains a collection of professional notes and books for interv
 
 ## 📚 About
 
-This repository is part of the GATE And Tech initiative to help students and professionals prepare for technical interviews. It includes comprehensive notes and books covering essential programming concepts and technologies.
+This repository is part of the [GATE And Tech initiative](https://gateandtech.in/) to help students and professionals prepare for technical interviews. It includes comprehensive notes and books covering essential programming concepts and technologies.
+
+**Topics:** Technical Interviews, System Design, Data Structures, Algorithms, Coding Problems, Career Advice
 
 ## 🎯 Resources
 
